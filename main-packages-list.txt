@@ -3,3 +3,4 @@ iproute
 openstack-ironic-inspector
 psmisc
 sqlite
+nano
